@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gonnagotoheaven-dev-210053-authRole",
+      "UnauthRoleArn": "arn:aws:iam::129540883169:role/amplify-gonnagotoheaven-dev-210053-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::129540883169:role/amplify-gonnagotoheaven-dev-210053-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-gonnagotoheaven-dev-210053-deployment",
+      "UnauthRoleName": "amplify-gonnagotoheaven-dev-210053-unauthRole",
+      "StackName": "amplify-gonnagotoheaven-dev-210053",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:129540883169:stack/amplify-gonnagotoheaven-dev-210053/67edcd40-ad54-11ee-87e0-0a8ebf670439",
+      "AmplifyAppId": "d2fuo7ryq2sr7n"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.App-navbar {
+  background-color: #DFF0FF;
+}
+
+.App-nav-title {
+  font-family: 'Sacramento', cursive;
+  font-size: x-large;
+}
+
+.App-header {
+  background-color: #AFCCDF;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(100px + 2vmin);
+  color: white;
+}
